@@ -32,6 +32,8 @@
 
 [4] "Java™ Platform, Standard Edition 17 API Specification - Class Collections." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html.
 
+[5] https://github.com/cami-la
+
 ---
 Se você preferir usar o protocolo SSH para comunicação com o repositório, siga as etapas abaixo:
 
@@ -44,6 +46,4 @@ Se você preferir usar o protocolo SSH para comunicação com o repositório, si
    ```shell
    git remote set-url origin git@github.com:cami-la/collections-java-api-2023.git
 
-### Dúvidas e Suporte
 
-Caso você tenha alguma dúvida, problema ou sugestão, fique à vontade para abrir uma issue no repositório. Espero conseguir te ajudar! (:
