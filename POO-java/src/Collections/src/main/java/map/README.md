@@ -1,10 +1,5 @@
 # MAP
 
-<p align="center">
-<img src="../../../../assets/image/map-interface-hierarchy.png" alt="Map interface hierarchy Java"><br>
-<a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
-</p>
-
 - A interface `Map` é usada para mapear dados na forma de chaves e valores.
 - O `Map` do Java é um objeto que mapeia chaves para valores.
 - Um `Map` não pode conter chaves duplicadas: cada chave pode mapear no máximo um valor.
