@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Collections/Collections.iml" filepath="$PROJECT_DIR$/src/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Desafio-Abstraindo-um-Bootcamp/Desafio-Abstraindo-um-Bootcamp.iml" filepath="$PROJECT_DIR$/src/Desafio-Abstraindo-um-Bootcamp/Desafio-Abstraindo-um-Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Desafio-Criando-um-Banco-Digital-Java-OO/Desafio-Criando-um-Banco-Digital-Java-OO.iml" filepath="$PROJECT_DIR$/src/Desafio-Criando-um-Banco-Digital-Java-OO/Desafio-Criando-um-Banco-Digital-Java-OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Ganhando-Produtividade-com-Stream-API/Ganhando-Produtividade-com-Stream-API.iml" filepath="$PROJECT_DIR$/src/Ganhando-Produtividade-com-Stream-API/Ganhando-Produtividade-com-Stream-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO-java.iml" filepath="$PROJECT_DIR$/.idea/POO-java.iml" />
+    </modules>
+  </component>
+</project>
